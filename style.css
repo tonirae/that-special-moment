@@ -1,22 +1,19 @@
-html{
+body{
     background-color: black;
 }
 h1{
-    font-family: "Libre Baskerville", serif;
-    font-weight: 700;
-    font-style: normal;
-    color: white;
-    text-align: center;
+    font-size: 3rem;
     text-transform: uppercase;
 }
-p{
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
     color: white;
+    font-family: "Libre Baskerville", serif;
     text-align: center;
 }
-img{
-    height: 500px;
-    border: 10px solid white;
-    border-width: 100%;
-    margin-top: 10%;
-    margin-left: 27%;
+.toniroanne-img{
+    border: 5px solid white;
+    width: 100%;
 }
